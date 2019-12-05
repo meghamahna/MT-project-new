@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Megha_C0749456_MT</string>
+
+    <string-array name="cars">
+        <item>Please choose a car</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Mercedes</item>
+        <item>Civic</item>
+        <item>Cadillac</item>
+        <item>Mazda</item>
+        <item>Accord</item>
+        <item>Sonata</item>
+
+
+    </string-array>
+
+    <string name="age1">Less than 20</string>
+    <string name="age2">Between 21 and 60</string>
+    <string name="age3">Above 60</string>
+</resources>
